@@ -4,9 +4,27 @@
      color: rgb(42, 196, 42) ;
 
 }
-.navbar-header
+.navbar navbar-light
 {
-    text-align: left;
+    text-align: justify;
     color: rgb(36, 202, 36);
  
 }
+.footer 
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(36, 202, 36);
+    color: rgb(36, 202, 36);
+    text-align: center;
+  }
+  body
+  {
+
+  }
+ #container
+ {
+     
+ }
